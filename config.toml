@@ -1,0 +1,4 @@
+baseURL = 'https://fsalehpour.github.io/'
+languageCode = 'en-us'
+title = 'Marz'
+theme = "ananke"
